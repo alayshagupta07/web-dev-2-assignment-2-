@@ -1,6 +1,6 @@
 body{
 font-family: Arial;
-background:#1e2a6d;
+background:#linear-gradient(to right, #fceabb, #f8b500);
 color:white;
 text-align:center;
 margin:0;
@@ -62,7 +62,7 @@ margin-right:auto;
 }
 
 #logBox{
-background:#0d1b52;
+background:#52280d;
 color:#00ff9d;
 padding:10px;
 height:100px;
